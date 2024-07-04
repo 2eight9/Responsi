@@ -89,7 +89,7 @@
                       <h6 class="mb-0">Address</h6>
                     </div>
                     <div class="col-sm-9 text-secondary">
-                      
+                      Bay Area, San Francisco, CA
                     </div>
                   </div>
                   <hr>
@@ -175,6 +175,6 @@ export default {
 .hero {
   text-align: center;
   padding: 100px 0;
-  background: #681919;
+  background: linear-gradient(45deg, #07a878 , #ebecec) ;
 }
 </style>
